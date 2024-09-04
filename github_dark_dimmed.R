@@ -19,7 +19,7 @@ github_dark_dimmed <- list(
   )
 )
   
-  # Atom One Dark -------------------------------------------------------------
+  # Github Dark Dimmed----------------------------------------------------------
   
 rstheme(
   "Github Dark Dimmed",
